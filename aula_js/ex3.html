@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <title>titulo</title>
+            <link rel="stylesheet" href="style.css">
+            <script src="./script.js" defer></script>
+
+    </head>
+    <!--id especifico unico link referenciar # // class . geral repetir-->
+    <body>
+       
+
+        <div class="navbar">
+            <a href="ex1.html"><i class="ex1"></i> Ex. 1</a>
+            <a href="ex2.html"><i class="ex2"></i> Ex. 2</a>
+            <a class="active" href="ex3.html"><i class="ex3"></i> Ex. 3</a>
+            <a href="ex4.html"><i class="ex4"></i> Ex. 4</a>
+        </div>
+
+
+       
+        <div class="ex3">
+            <input type="text" id="visor" placeholder="0" readonly >
+          
+            <br>
+            <button onclick="adicionarNumero(1)">1</button>
+            <button onclick="adicionarNumero(2)">2</button>
+            <button onclick="adicionarNumero(3)">3</button>
+            <button onclick="adicionarOperador('+')">+</button>
+            <br>
+            <button onclick="adicionarNumero(4)">4</button>
+            <button onclick="adicionarNumero(5)">5</button>
+            <button onclick="adicionarNumero(6)">6</button>
+            <button onclick="adicionarOperador('-')">-</button>
+            <br>
+            <button onclick="adicionarNumero(7)">7</button>
+            <button onclick="adicionarNumero(8)">8</button>
+            <button onclick="adicionarNumero(9)">9</button>
+            <button onclick="adicionarOperador('*')">*</button>
+            <br>
+            <button onclick="adicionarNumero(0)">0</button>
+            <button onclick="limpar()">C</button>
+            <button onclick="calcular()">=</button>
+            <button onclick="adicionarOperador('/')">/</button>
+            
+        </div>
+
+
+    </body>
+</html>
