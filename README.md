@@ -14,5 +14,5 @@
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjNjRjYWNkY2E4NTBmNWNiNTc3MTc4YWI0NGM4MGRjMjc0NzczMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Sqf5EWqRoQ0SOYfyZ7/giphy.gif" alt="GIF animado" width="600" height="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVjNjRjYWNkY2E4NTBmNWNiNTc3MTc4YWI0NGM4MGRjMjc0NzczMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Sqf5EWqRoQ0SOYfyZ7/giphy.gif" alt="GIF animado" width="1000" height="700">
 
